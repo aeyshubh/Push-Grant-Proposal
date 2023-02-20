@@ -134,7 +134,7 @@ Where will we use this grant money:
   - AWS services for deployment and data storage. 
   - Upgrade our coding gears.
 
-  - We desire for a funding of 30,000 PUSH tokens . 
+  - We desire for a funding of 19,999 PUSH tokens . 
 
 9. **Milestones**
 
@@ -147,16 +147,16 @@ Where will we use this grant money:
   -Superfluid money streaming integrated with livepeer. 
   - Viewers can view Streamer's publications published on Lens subgraph on our app to know more about streamer's social life. 
 
-**Milestone 1(25-Feb)(10,000 PUSH):**
+**Milestone 1(25-Feb)(7,500 PUSH):**
   - Integrating Push Channel creation from our app itself. 
   - View Stream Notifications on our app.  <br>
 
-**Milestone 2(25-March)(10,000 PUSH):**
+**Milestone 2(25-March)(7,500 PUSH):**
   - one to one chatting using Push Chat . 
   - Opt-In and Opt-Out channels. 
   - Token Gated chatting with Streamer using push chat. -<br>
 
-**Milestone 3(25-April)(10,000 PUSH):**
+**Milestone 3(25-April)(4,999 PUSH):**
   - Integrating Text-To-Speech model using Natural Language processing for donations. 
   - Sending Donation notifications in Push Notification group. 
 
