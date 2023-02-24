@@ -88,6 +88,8 @@
 7. **Value Proposition to Push Protocol** 
 
       We believe this grant will allow foster a long term relationship between PeerStreams and Push to help out with any of video streaming needs . We will be very           interested to onboard you as one of our first grant partner.
+    - At starte we can have 30 Streamers with 23 Push Channel ,if a streamer does 2 streams a day for 25 Days(~month) then there would be **1150 Notifications**.
+    - At initial stage we can have 50 users receiveing Push Notifications and using Push Chat which will be a small but good addition to the **Push ecosystem**.
 
       Push Channels will be the main component in our application for following features :
 
